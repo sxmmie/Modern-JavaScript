@@ -77,7 +77,7 @@ class Popular extends React.Component {
     
   render() {
     // destructure state
-    const { selectedLanguage, repos } = this.this.state
+    const { selectedLanguage, repos } = this.state
     
     return (
       <div>
